@@ -1,6 +1,6 @@
- ## Social Media Application
+ # Social Media Application
 
-This is simple Social Media Application built using React, Tailwind & Sanity
+This is a simple Social Media Application developed using React, Tailwind & Sanity.
 
-# On Going Project
+## On Going Project
 
